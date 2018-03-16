@@ -1,8 +1,9 @@
 MAZE
 =========
 
-- A maze game written in RAT assembly 
-The assembly is executed by microprocessor written in VHDL and implemented on a [Basys 3 board from Digilent](https://www.xilinx.com/products/boards-and-kits/1-54wqge.html).
+# A maze game written in assembly 
+
+- The assembly is executed by microprocessor written in VHDL and implemented on a [Basys 3 board from Digilent](https://www.xilinx.com/products/boards-and-kits/1-54wqge.html).
 The game is displayed on a VGA monitor connected to the Basys 3 board's VGA output. 
 
 ## Files:
