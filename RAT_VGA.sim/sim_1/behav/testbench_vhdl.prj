@@ -1,0 +1,26 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/ALU.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/Control_Unit.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/Reg_File.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/prog_rom.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/PC.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/ProgramCounter.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/ALUwithMUX.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/MCU.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/RAT_wrapper.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/SCR.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/SCR_ADDR_MUX.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/SCR_DIN_MUX.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/SP.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/imports/Desktop/FLAGS.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/imports/Desktop/Flag_Reg_3_00.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/counter_db.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/db_1shot.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/VGA_Driver.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/vga_clk_div.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/vga_RAM.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/new/VGA_buffer_Driver.vhd"
+vhdl xil_defaultlib  "../../../project_1.srcs/sim_1/new/testbench.vhd"
+
+# Do not sort compile order
+nosort
