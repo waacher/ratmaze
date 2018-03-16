@@ -1,4 +1,4 @@
-MAZE
+RAT MAZE
 =========
 
 ### A maze game written in assembly 
