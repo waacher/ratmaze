@@ -3,7 +3,7 @@ RAT MAZE
 
 ### A maze game written in assembly 
 
-- The assembly program is executed by a microprocessor written in VHDL and implemented on a [Basys 3 board](https://www.xilinx.com/products/boards-and-kits/1-54wqge.html).
+- The assembly program is executed by a microcontroller written in VHDL and implemented on a [Basys 3 board](https://www.xilinx.com/products/boards-and-kits/1-54wqge.html).
 The game is displayed on a VGA monitor connected to the Basys 3 board's VGA output. 
 The game is played using buttons and switches on the board. 
 
@@ -37,8 +37,9 @@ Implementations:
  - Collision detection and color change
  - VGA Output
  - Button debouncing for accurate user actions
- - RAT microprocessor     
+ - RAT microcontroller 
     - I/O 
+    - full support for RAT instructions
     - Interrupt support
  - VGA buffer
     - VGA driver
